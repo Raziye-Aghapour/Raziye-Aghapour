@@ -5,15 +5,14 @@ My research is on power systems planning — specifically how we model and optim
 and transmission expansion decisions for the ERCOT grid as Texas integrates more renewable energy.
 
 Most of my day-to-day work involves building Python workflows to run large-scale simulations 
-in NREL ReEDS, analyzing outputs across hundreds of scenarios, and figuring out which 
+in NREL ReEDS (a national lab capacity expansion model)), analyzing outputs across hundreds of scenarios, and figuring out which 
 assumptions actually drive the results. On the methods side, I work with LP and MIP 
 optimization (Gurobi, GAMS), Design of Experiments, and surrogate modeling. I'm currently 
 also applying scikit-learn and XGBoost to simulation outputs and learning how to connect 
 ML predictions to optimization-based decisions.
 
 Before my PhD, I worked in the energy industry in Tehran — pricing analysis for power 
-contracts and demand-side management — and I hold a published paper on probabilistic 
-optimization for EV charging station placement (Electric Power Systems Research, 2020).
+contracts and demand-side management .
 
 This spring I taught Operations Research I to undergraduates at UT Arlington, which 
 covers linear programming, network optimization, and integer programming.
